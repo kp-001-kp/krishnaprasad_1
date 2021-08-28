@@ -1,0 +1,251 @@
+body {
+  color: #40514E;
+  background-color: #F4F5DB;
+  margin: 0;
+}
+
+.bg_mountain {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+.top_container {
+  background-color: #BBF1FA;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.top_text_container {
+  position: relative;
+  top: 10vw;
+  text-align: center;
+  font-family: 'Condiment', cursive;
+}
+
+.top_text {
+  margin-top: 0;
+  line-height: .2;
+  font-size: 3rem;
+  color: #046582;
+}
+
+.top_text_1 {
+  line-height: .2;
+  font-size: 1.5rem;
+  color: #046582;
+}
+
+.plane {
+  width: 10%;
+  height: auto;
+  position: relative;
+  left: 70%;
+  top: 7vw;
+}
+
+.horizontal_rule {
+  background-color: #C1AC95;
+  height: 5px;
+  margin: 0;
+}
+
+.pp {
+  width: 150px;
+  height: auto;
+  border: none;
+  border-radius: 50%;
+}
+
+.middle_container {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.intro {
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  margin-bottom: 5%;
+}
+
+.intro_text {
+  font-size: 1.5rem;
+  margin-top: 2%;
+  color: #420516;
+}
+
+.intro_text_1 {
+  font-size: 1rem;
+}
+
+.skill_1_1 {
+  width: 150px;
+  height: auto;
+  border: none;
+  border-radius: 50%;
+  margin-top: 5%;
+}
+
+.horizontal_rule_1 {
+  width: 10%;
+  border: none;
+  border-top: dotted;
+  border-width: 10px;
+  color: #DAD5AB;
+}
+
+.rider {
+  width: 8vw;
+  height: auto;
+  display: block;
+  position: relative;
+  top: 23vw;
+  left: 68vw;
+}
+
+.top_bg_container {
+  margin-bottom: 0;
+}
+
+.bottom_container {
+  background-color: #C68B59;
+  text-align: center;
+  margin: 0;
+  padding-top: 1vw;
+}
+
+.contact_me {
+  padding-top: 1vw;
+  padding-bottom: 5vw;
+  text-align: center;
+  margin: 0;
+}
+
+.copy_right {
+  margin-bottom: 0;
+  padding-bottom: 1vw;
+  margin-top: .75vw;
+  color: white;
+  font-size: .75rem;
+}
+
+.skill_2_1 {
+  width: 150px;
+  height: auto;
+  border: none;
+  border-radius: 50%;
+  margin-top: 5%;
+}
+
+.skill_3_1 {
+  width: 150px;
+  height: auto;
+  border: none;
+  border-radius: 50%;
+  margin-top: 5%;
+}
+
+.skill_4_1 {
+  width: 150px;
+  height: auto;
+  border: none;
+  border-radius: 50%;
+  margin-top: 5%;
+}
+
+.text {
+  margin-top: 5px;
+  padding-left: 10px;
+  font-size: 1rem;
+}
+
+.skill_1_1 {
+  float: left;
+  padding-right: 20px;
+}
+
+.text_1 {
+  margin-bottom: 0;
+}
+
+.skill_1 {
+  text-align: left;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill_2 {
+  text-align: left;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill_3 {
+  text-align: left;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill_4 {
+  text-align: left;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill_2_1 {
+  float: right;
+  padding-left: 20px;
+}
+
+.skill_3_1 {
+  float: left;
+  padding-right: 20px;
+}
+
+.skill_4_1 {
+  float: right;
+  padding-left: 20px;
+}
+
+h2 {
+  margin-bottom: 0;
+  padding-top: 40px;
+  color: #5C3D2E;
+  font-size: 2rem;
+}
+
+.vaccum {
+  height: 50px;
+}
+
+h1 {
+  color: #420516;
+}
+
+.redirect {
+  margin: 10px;
+  color: #86340A;
+  text-decoration: none;
+}
+
+.redirect:hover {
+  color: white;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+.text_1 {
+  font-size: 1.5rem;
+}
